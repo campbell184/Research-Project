@@ -3,7 +3,7 @@
 In this research we are predicting student success of first and second year wits students using previous grades of the students.
 
 # Data
-The data is a synthetic data collected from wits university. We used `sklearn` or `Scikit-learn` which is a free software machine learning library for the Python programming language. The repo of sklearn can found [[here](https://github.com/scikit-learn/scikit-learn)]. The data was preprocessed in the notebook `DATA_PREPROCESSING` in the folder `Data Preprocessing`. The results achived are reproducible.
+The data is a synthetic data collected from wits university. The Dataset can't be uploaded here because is confidential. We used `sklearn` or `Scikit-learn` which is a free software machine learning library for the Python programming language. The repo of sklearn can found [[here](https://github.com/scikit-learn/scikit-learn)]. The data was preprocessed in the notebook `DATA_PREPROCESSING` in the folder `Data Preprocessing`. The results achived are reproducible.
 
 # Models
 We used the following models:
